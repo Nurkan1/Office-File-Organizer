@@ -1,0 +1,3 @@
+# Required packages for Automated Office File Organizer
+colorama==0.4.4
+tabulate==0.8.9
